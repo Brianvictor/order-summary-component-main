@@ -70,7 +70,7 @@ main .informacoes .music {
     align-items: center;
 }
 
-main .informacoes .music {
+main .informacoes .music  .preco {
     display: flex;
     flex-direction: column;
 }
